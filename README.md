@@ -1,6 +1,8 @@
 # BitBomb
 This is a python project, basically a whatsapp bomber which bombards a series of messages to the chat of the target whatsapp user. 
 
+If you face any problem or have any query, Feel free to contact at rajatkumar2312001@gmail.com
+
 If you just want to use this, just download the installer, install and run.
 Download link: https://drive.google.com/file/d/1A3LovSTZnFO3jPwd2D3KFiuys-KcMLba/view?usp=sharing
 
